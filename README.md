@@ -64,8 +64,8 @@
 </tbody>
 </table>
 </br>
-
-
+<p><strong>Yoshua Bengio</strong>&nbsp;<span class="noexcerpt nowraplinks"><a title="Fellow of the Royal Society" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society">FRS</a>&nbsp;<a title="Order of Canada" href="https://en.wikipedia.org/wiki/Order_of_Canada">OC</a>&nbsp;<a title="Fellow of the Royal Society of Canada" href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Canada">FRSC</a></span>&nbsp;(born 1964 in&nbsp;<a title="Paris" href="https://en.wikipedia.org/wiki/Paris">Paris</a>,&nbsp;<a title="France" href="https://en.wikipedia.org/wiki/France">France</a>) is a Canadian&nbsp;<a title="Computer science" href="https://en.wikipedia.org/wiki/Computer_science">computer scientist</a>, most noted for his work on&nbsp;<a class="mw-redirect" title="Artificial neural networks" href="https://en.wikipedia.org/wiki/Artificial_neural_networks">artificial neural networks</a>&nbsp;and&nbsp;<a title="Deep learning" href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a>.&nbsp;He was a co-recipient of the 2018&nbsp;<a title="Turing Award" href="https://en.wikipedia.org/wiki/Turing_Award">ACM A.M. Turing Award</a>&nbsp;for his work in deep learning.&nbsp;He is a professor at the Department of Computer Science and Operations Research at the&nbsp;<a title="Universit&eacute; de Montr&eacute;al" href="https://en.wikipedia.org/wiki/Universit%C3%A9_de_Montr%C3%A9al">Universit&eacute; de Montr&eacute;al</a>&nbsp;and scientific director of the&nbsp;<a class="mw-redirect" title="Montreal Institute for Learning Algorithms" href="https://en.wikipedia.org/wiki/Montreal_Institute_for_Learning_Algorithms">Montreal Institute for Learning Algorithms</a>&nbsp;(MILA). Bengio, together with&nbsp;<a title="Geoffrey Hinton" href="https://en.wikipedia.org/wiki/Geoffrey_Hinton">Geoffrey Hinton</a>&nbsp;and&nbsp;<a title="Yann LeCun" href="https://en.wikipedia.org/wiki/Yann_LeCun">Yann LeCun</a>, are referred to by some as the "Godfathers of AI" and "Godfathers of Deep Learning".</p>
+</br>
 
 <h2>Top 5 Papers By Turing Award Winner Yoshua Bengio That Push The Boundaries Of AI</h2>
 
